@@ -1,0 +1,19 @@
+{
+  "name": "task-manager-express",
+  "version": "1.0.0",
+  "description": "**Task Manager Backend** adalah API yang dirancang untuk mendukung pengelolaan tugas dengan berbagai endpoint yang memungkinkan pengguna membuat, membaca, memperbarui, dan menghapus tugas. API ini dibangun menggunakan Express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
