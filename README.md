@@ -11,6 +11,7 @@
 - **Prioritas Tugas**: Dukungan untuk mengatur prioritas tugas.
 - **Status Tugas**: Update status tugas (Belum Selesai, Dalam Proses, Selesai).
 - **Validasi Input**: Validasi data input menggunakan middleware.
+- **Cloud Platform**: Cloud platform yang digunakan di sini adalah MongoDB Atlas
 
 ---
 
