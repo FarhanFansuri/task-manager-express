@@ -30,6 +30,7 @@
 Pastikan Anda telah menginstal:
 - [Node.js](https://nodejs.org/) (v14 ke atas)
 - [MongoDB](https://www.mongodb.com/)
+- [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)
 
 ### Langkah Instalasi
 
